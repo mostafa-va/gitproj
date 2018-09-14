@@ -1,0 +1,4 @@
+echo off
+echo %1
+set name=%1
+echo my name is %name%
